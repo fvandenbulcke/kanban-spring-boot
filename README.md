@@ -25,3 +25,6 @@ Produis le code comme si tu le faisais "en vrai", sauf qu'on se concentre sur le
 
 ### Que faire si j'ai oublié la syntaxe ?
 Pour information, tu as le droit d'utiliser tous les outils que tu veux : Javadoc, Documentation en ligne, StackOverflow, Google... fais en bon usage.
+
+## Prérequis
+Java 11 et Maven.
